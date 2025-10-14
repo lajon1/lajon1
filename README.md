@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lajon1&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=lajon1&label=Profile%20views&color=006600&style=for-the-badge&logo=star" alt="lajon1" style="padding-right:40;" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lajon1">
-    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=lajon1&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff&icon_color=ff8700&rank_icon=github&show=prs,issues,contribs,reviews,prs_merged,prs_mergedpercentage" />
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=lajon1&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,009933&title_color=ff0066&text_color=ffffff&icon_color=b3c6ff&rank_icon=github&show=prs,issues,contribs,reviews" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lajon1">
-    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajon1&layout=compact&&theme=nightowl&show_owner=true&bg_color=0,000000,083282&title_color=7e0314&text_color=ffffff" alt="Languages" />
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajon1&layout=donut&&theme=nightowl&show_owner=true&bg_color=0,000000,009933&title_color=ff0066&text_color=ffffff" alt="Languages" />
   </a>
 </p>
