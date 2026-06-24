@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>Note: Some of the projects you find here were my training materials I worked on, so you may not find them useful.</i>
+  <i>Note: Some of the projects you'll find here were training materials I worked on, so you may not find them useful.</i>
   <br>
   <i>I just like to archive stuff I've done in the past.</i>
 </p>
